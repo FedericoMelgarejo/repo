@@ -1,0 +1,22 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "description": "asdas",
+  "main": "d",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedericoMelgarejo/repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FedericoMelgarejo/repo/issues"
+  },
+  "homepage": "https://github.com/FedericoMelgarejo/repo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
